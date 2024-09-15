@@ -1,4 +1,4 @@
-package com.mx.arrayOverlapping;
+package com.mx.ejercicio1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,7 +28,7 @@ public class ArrayOverlapping {
     }
 
     public static void main(String[] args) {
-        int[][] originData = { { -11, 4 }, { Integer.MIN_VALUE, 5 }, { 2, Integer.MAX_VALUE }, { 10, 15 }, { 7, 11 } };
+        int[][] originData = { { 1, 3 }, { 2, 6 }, { 8, 10 }, { 15, 18 } };
 
         System.out.println( "Array Origen: " + Arrays.deepToString( originData ) );
         System.out.print( "Array Resultado: " + Arrays.deepToString( getOverlapArray( originData ) ) );
