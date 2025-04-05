@@ -15,6 +15,7 @@ Java JDK 21
 - [`Ejercicio 3:` Busqueda Digitos No Repetidos](ejercicios_practicos/src/com/mx/ejercicio3)
 - [`Ejercicio 4:` Palíndromos](ejercicios_practicos/src/com/mx/ejercicio4)
 - [`Ejercicio 5:` Serie de Fibonacci](ejercicios_practicos/src/com/mx/ejercicio5)
+- [`Ejercicio 6:` Intercambio de valores entre dos variables](ejercicios_practicos/src/com/mx/ejercicio6)
 
 ## Construido con 🛠️
 * [IntelliJ Community Edition](https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows&code=IIC) - IDE utilizado para el desarrollo

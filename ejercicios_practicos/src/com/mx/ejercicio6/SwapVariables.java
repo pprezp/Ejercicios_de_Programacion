@@ -4,6 +4,7 @@ public class SwapVariables {
     public static void main(String[] args) {
         int x = 10;
         int y = 1;
+
         System.out.println("Valor de x antes " + x);
         System.out.println("Valor de y antes " + y);
 
